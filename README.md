@@ -1,6 +1,7 @@
 # ccex
 CCEX
-CCEX Engine and Order Matching
+Crypto Currency C++ Engine
+Order Matching,
 A Network Socket Parallel Process with Multi Thread and EPOLL resolved 10K,
 IPC via AMQP,PUSH via ZeroMQ.
 
